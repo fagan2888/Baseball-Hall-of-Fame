@@ -20,7 +20,7 @@ for i in range(1950, 2017):
 # home_teams = df['home_team'].unique()
 # Team ID's mostly match database
 # Convert MLN -> ML1
-team_fields = ['home_team', 'away_team', 'top_bat_team', 'bot_bat_team']
+team_fields = ['home_team', 'away_team', 'top_bat_team', 'bot_bat_team', 'batting_team', 'fielding_team']
 print('Mapping Team IDs: {}'.format(datetime.datetime.now()))
 df['game_id'] = df['game_id'].str.replace(r'MLN([0-9]+)', r'ML1\1')
 for col in team_fields:
