@@ -100,6 +100,7 @@ def extract_game_state(df_event):
     df['s_fielding_runs'].loc[df['home_batting'] == 1] = df['s_away_runs']
 
     df['s_outs'] = df_event['OUTS_CT']
+    # These should be is not null, but discovered late, so f_base* were flipped in model application
     df['s_base1'] = 0
     df['s_base1'].loc[df_event['BASE1_RUN_ID'].isnull()] = 1
     df['s_base2'] = 0
