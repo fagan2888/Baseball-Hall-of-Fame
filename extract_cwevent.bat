@@ -1,0 +1,74 @@
+REM CWEVENT
+REM
+REM First line includes the header flag (-n).  Decide whether you need it or not.
+REM cwevent -n -f 0-96 -x 0-52 -y 2007 unzipped\2007*.ev* > parsed\all2007.csv
+REM cwevent -n -f 0-96 -x 0-52 -y 2018 unzipped\2018*.ev* > parsed\all2018.csv
+cwevent -n -f 0-96 -x 0-52 -y 2017 unzipped\2017*.ev* > parsed\all2017.csv
+cwevent -n -f 0-96 -x 0-52 -y 2016 unzipped\2016*.ev* > parsed\all2016.csv
+cwevent -n -f 0-96 -x 0-52 -y 2015 unzipped\2015*.ev* > parsed\all2015.csv
+cwevent -n -f 0-96 -x 0-52 -y 2014 unzipped\2014*.ev* > parsed\all2014.csv
+cwevent -n -f 0-96 -x 0-52 -y 2013 unzipped\2013*.ev* > parsed\all2013.csv
+cwevent -n -f 0-96 -x 0-52 -y 2012 unzipped\2012*.ev* > parsed\all2012.csv
+cwevent -n -f 0-96 -x 0-52 -y 2011 unzipped\2011*.ev* > parsed\all2011.csv
+cwevent -n -f 0-96 -x 0-52 -y 2010 unzipped\2010*.ev* > parsed\all2010.csv
+cwevent -n -f 0-96 -x 0-52 -y 2009 unzipped\2009*.ev* > parsed\all2009.csv
+cwevent -n -f 0-96 -x 0-52 -y 2008 unzipped\2008*.ev* > parsed\all2008.csv
+cwevent -n -f 0-96 -x 0-52 -y 2007 unzipped\2007*.ev* > parsed\all2007.csv
+cwevent -n -f 0-96 -x 0-52 -y 2006 unzipped\2006*.ev* > parsed\all2006.csv
+cwevent -n -f 0-96 -x 0-52 -y 2005 unzipped\2005*.ev* > parsed\all2005.csv
+cwevent -n -f 0-96 -x 0-52 -y 2004 unzipped\2004*.ev* > parsed\all2004.csv
+cwevent -n -f 0-96 -x 0-52 -y 2003 unzipped\2003*.ev* > parsed\all2003.csv
+cwevent -n -f 0-96 -x 0-52 -y 2002 unzipped\2002*.ev* > parsed\all2002.csv
+cwevent -n -f 0-96 -x 0-52 -y 2001 unzipped\2001*.ev* > parsed\all2001.csv
+cwevent -n -f 0-96 -x 0-52 -y 2000 unzipped\2000*.ev* > parsed\all2000.csv
+cwevent -n -f 0-96 -x 0-52 -y 1999 unzipped\1999*.ev* > parsed\all1999.csv
+cwevent -n -f 0-96 -x 0-52 -y 1998 unzipped\1998*.ev* > parsed\all1998.csv
+cwevent -n -f 0-96 -x 0-52 -y 1997 unzipped\1997*.ev* > parsed\all1997.csv
+cwevent -n -f 0-96 -x 0-52 -y 1996 unzipped\1996*.ev* > parsed\all1996.csv
+cwevent -n -f 0-96 -x 0-52 -y 1995 unzipped\1995*.ev* > parsed\all1995.csv
+cwevent -n -f 0-96 -x 0-52 -y 1994 unzipped\1994*.ev* > parsed\all1994.csv
+cwevent -n -f 0-96 -x 0-52 -y 1993 unzipped\1993*.ev* > parsed\all1993.csv
+cwevent -n -f 0-96 -x 0-52 -y 1992 unzipped\1992*.ev* > parsed\all1992.csv
+cwevent -n -f 0-96 -x 0-52 -y 1991 unzipped\1991*.ev* > parsed\all1991.csv
+cwevent -n -f 0-96 -x 0-52 -y 1990 unzipped\1990*.ev* > parsed\all1990.csv
+cwevent -n -f 0-96 -x 0-52 -y 1989 unzipped\1989*.ev* > parsed\all1989.csv
+cwevent -n -f 0-96 -x 0-52 -y 1988 unzipped\1988*.ev* > parsed\all1988.csv
+cwevent -n -f 0-96 -x 0-52 -y 1987 unzipped\1987*.ev* > parsed\all1987.csv
+cwevent -n -f 0-96 -x 0-52 -y 1986 unzipped\1986*.ev* > parsed\all1986.csv
+cwevent -n -f 0-96 -x 0-52 -y 1985 unzipped\1985*.ev* > parsed\all1985.csv
+cwevent -n -f 0-96 -x 0-52 -y 1984 unzipped\1984*.ev* > parsed\all1984.csv
+cwevent -n -f 0-96 -x 0-52 -y 1983 unzipped\1983*.ev* > parsed\all1983.csv
+cwevent -n -f 0-96 -x 0-52 -y 1982 unzipped\1982*.ev* > parsed\all1982.csv
+cwevent -n -f 0-96 -x 0-52 -y 1981 unzipped\1981*.ev* > parsed\all1981.csv
+cwevent -n -f 0-96 -x 0-52 -y 1980 unzipped\1980*.ev* > parsed\all1980.csv
+cwevent -n -f 0-96 -x 0-52 -y 1979 unzipped\1979*.ev* > parsed\all1979.csv
+cwevent -n -f 0-96 -x 0-52 -y 1978 unzipped\1978*.ev* > parsed\all1978.csv
+cwevent -n -f 0-96 -x 0-52 -y 1977 unzipped\1977*.ev* > parsed\all1977.csv
+cwevent -n -f 0-96 -x 0-52 -y 1976 unzipped\1976*.ev* > parsed\all1976.csv
+cwevent -n -f 0-96 -x 0-52 -y 1975 unzipped\1975*.ev* > parsed\all1975.csv
+cwevent -n -f 0-96 -x 0-52 -y 1974 unzipped\1974*.ev* > parsed\all1974.csv
+cwevent -n -f 0-96 -x 0-52 -y 1973 unzipped\1973*.ev* > parsed\all1973.csv
+cwevent -n -f 0-96 -x 0-52 -y 1972 unzipped\1972*.ev* > parsed\all1972.csv
+cwevent -n -f 0-96 -x 0-52 -y 1971 unzipped\1971*.ev* > parsed\all1971.csv
+cwevent -n -f 0-96 -x 0-52 -y 1970 unzipped\1970*.ev* > parsed\all1970.csv
+cwevent -n -f 0-96 -x 0-52 -y 1969 unzipped\1969*.ev* > parsed\all1969.csv
+cwevent -n -f 0-96 -x 0-52 -y 1968 unzipped\1968*.ev* > parsed\all1968.csv
+cwevent -n -f 0-96 -x 0-52 -y 1967 unzipped\1967*.ev* > parsed\all1967.csv
+cwevent -n -f 0-96 -x 0-52 -y 1966 unzipped\1966*.ev* > parsed\all1966.csv
+cwevent -n -f 0-96 -x 0-52 -y 1965 unzipped\1965*.ev* > parsed\all1965.csv
+cwevent -n -f 0-96 -x 0-52 -y 1964 unzipped\1964*.ev* > parsed\all1964.csv
+cwevent -n -f 0-96 -x 0-52 -y 1963 unzipped\1963*.ev* > parsed\all1963.csv
+cwevent -n -f 0-96 -x 0-52 -y 1962 unzipped\1962*.ev* > parsed\all1962.csv
+cwevent -n -f 0-96 -x 0-52 -y 1961 unzipped\1961*.ev* > parsed\all1961.csv
+cwevent -n -f 0-96 -x 0-52 -y 1960 unzipped\1960*.ev* > parsed\all1960.csv
+cwevent -n -f 0-96 -x 0-52 -y 1959 unzipped\1959*.ev* > parsed\all1959.csv
+cwevent -n -f 0-96 -x 0-52 -y 1958 unzipped\1958*.ev* > parsed\all1958.csv
+cwevent -n -f 0-96 -x 0-52 -y 1957 unzipped\1957*.ev* > parsed\all1957.csv
+cwevent -n -f 0-96 -x 0-52 -y 1956 unzipped\1956*.ev* > parsed\all1956.csv
+cwevent -n -f 0-96 -x 0-52 -y 1955 unzipped\1955*.ev* > parsed\all1955.csv
+cwevent -n -f 0-96 -x 0-52 -y 1954 unzipped\1954*.ev* > parsed\all1954.csv
+
+cwevent -n -f 0-96 -x 0-52 -y 1953 unzipped\1953*.ev* > parsed\all1953.csv
+cwevent -n -f 0-96 -x 0-52 -y 1952 unzipped\1952*.ev* > parsed\all1952.csv
+cwevent -n -f 0-96 -x 0-52 -y 1951 unzipped\1951*.ev* > parsed\all1951.csv
+cwevent -n -f 0-96 -x 0-52 -y 1950 unzipped\1950*.ev* > parsed\all1950.csv
